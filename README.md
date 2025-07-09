@@ -20,7 +20,7 @@ With the rise of AI, I've been exploring new forms of collaboration between huma
 
 I’ve always had a natural drive to dive deep into emerging technologies — not just to follow trends, but to understand their potential, crossing boundaries, connecting disciplines,  and applying them meaningfully, using code as a medium to transform ideas into tangible experiences.
 
-## 🎨 Toolkit
+## 🛠️ Toolkit
 
 JavaScript (React, Node.js, Next.js, Svelte) AI tools & agents (OpenAI, GPT), Blockchain (Bitcoin, Ethereum, BSV), Python, Shell scripting, HTML, CSS, Responsive Development, Docker, Cloud (GCP, AWS, Hetzner), Databases (MySQL, MongoDB, PostgreSQL), WordPress, Linux (former LPI certified), Mainframe systems (COBOL, JCL, Natural/Adabas), Adobe Photoshop, GIMP, Chaos Theory.
 
